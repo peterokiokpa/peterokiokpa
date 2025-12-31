@@ -1,14 +1,8 @@
-# 👋 Hi, I'm Peter Okiokpa  
+# With deep curiosity about how technology can break down complex problems, empower people, and create real, lasting impact. I’m on a mission to make robotics and AI education and innovation accessible to everyone, globally.
 
-A Technical Content Writer, Developer Advocate, Educator and Electronics/Robotics Engineer.
+At the centre of my work is a simple question: how do we make AI and robotics easier to understand, build tools and communities that cause innovation, and help people turn learning into real-world solutions?
 
-I’m passionate about making AI and Robotics innovations and education accessible, globally. I simplify complex ideas, create contents, communities, and systems that help developers, innovators, and learners build the future.
-
-I also highlight the latest products, tools, and breakthroughs from robotics and AI companies, making sure people understand where the industry is heading and how to be part of it.
-
-In short, I bridge education, innovation, and strategy, helping people and organizations move from curiosity to adoption, from learning to building, and from ideas to sustainable impact.
-
-My mission is simple: to make Robotics, Embedded Systems, and Artificial Intelligence education and innovation accessible to all, through writing, advocacy, teaching, engineering and community-building.
+This curiosity shapes everything I do as a robotics and AI educator, developer relations professional, technical writer, engineer, builder and creator.
 
 ### **🔧 Technologies I Work With**  
 - **Programming Languages:** Python, C++  
@@ -20,10 +14,5 @@ My mission is simple: to make Robotics, Embedded Systems, and Artificial Intelli
 
 ### **🌍 Let’s Connect!**  
 I’m always open to collaborations and conversations about advancing robotics and AI engineering. Feel free to reach out!  
-
-📧 Email: [okiokpapeter@gmail.com](mailto:reach@thepeteleba.com.ng)  
-🌐 Website: [thepeteleba.com.ng](https://thepeteleba.com.ng)  
-🌐 LinkedIn: [Peter Okiokpa](https://linkedin.com/in/thepeteleba)
-🌐 Twitter: [Peter Okiokpa](https://Twitter.com/in/thepeteleba)
 
 Let’s build something impactful together 🚀! 
