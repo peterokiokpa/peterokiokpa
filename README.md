@@ -1,7 +1,5 @@
-# With deep curiosity about how technology can break down complex problems, empower people, and create real, lasting impact. I’m on a mission to make robotics and AI education and innovation accessible to everyone, globally.
-
+With deep curiosity about how technology can break down complex problems, empower people, and create real, lasting impact. I’m on a mission to make robotics and AI education and innovation accessible to everyone, globally.
 At the centre of my work is a simple question: how do we make AI and robotics easier to understand, build tools and communities that cause innovation, and help people turn learning into real-world solutions?
-
 This curiosity shapes everything I do as a robotics and AI educator, developer relations professional, technical writer, engineer, builder and creator.
 
 ### **🔧 Technologies I Work With**  
